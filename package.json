@@ -1,0 +1,25 @@
+{
+  "name": "codenfterc721",
+  "version": "1.0.0",
+  "main": "runScript.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node ./scripts/runScript.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "axios": "^0.23.0",
+    "config": "^3.3.6",
+    "dotenv": "^10.0.0",
+    "env": "^0.0.2",
+    "web3": "^1.7.0"
+  },
+  "description": "",
+  "devDependencies": {}
+}
